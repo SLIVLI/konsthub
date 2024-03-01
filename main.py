@@ -1,4 +1,4 @@
 print("Hallo, Wereld!")
-print("wil jij ook kont?")
-print("sillebil eet kont")
+print("wil jij ook pik?")
+print("sillebil eet pik")
 print("maarten ook")
